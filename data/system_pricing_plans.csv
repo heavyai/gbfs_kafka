@@ -1,0 +1,342 @@
+currency,description,is_taxable,name,plan_id,price,taxable,url,accessed_on
+AED,"Unlimited number of trips, first 60 minutes of each trip are included in the pass, after which additional usage fees apply. Make sure to dock the bike in before 60 minutes at any station to avoid usage charges.",0,1-Day Pass,1,20.0,0.0,,2019-02-07 08:20:59.870763
+AED,"Unlimited number of trips, first 60 minutes of each trip are included in the pass, after which additional usage fees apply. Make sure to dock the bike in before 60 minutes at any station to avoid usage charges.",0,3-Day Pass,2,50.0,0.0,,2019-02-07 08:20:59.870763
+AED,"Unlimited number of trips, first 60 minutes of each trip are included in the monthly membership, after which additional usage fees apply",0,Monthly Membership,3,99.0,0.0,,2019-02-07 08:20:59.870763
+AED,"This is a One Day Membership for users of Abu Dhabi's Bikeshare network that allows unlimited number of 1 hour rides for a period of 24 hours. Please note, rides above 1 hour will incur additional usage charges",0,One Day Membership,9,20.0,0.0,,2019-02-07 08:20:59.870763
+BRL,Plano anual,1,Plano anual,1,100.00,,,2019-02-07 08:20:59.870763
+BRL,Plano mensal,1,Plano mensal,2,10.00,,,2019-02-07 08:20:59.870763
+BRL,Plano diário Kiosk,1,Plano diário Kiosk,3,8.00,,,2019-02-07 08:20:59.870763
+BRL,Plano Diário,1,Plano Diário,4,8.00,,,2019-02-07 08:20:59.870763
+BRL,Plano Anual Estudante,1,Plano Anual Estudante,5,50.00,,,2019-02-07 08:20:59.870763
+BRL,Plano Mensal Estudante,1,Plano Mensal Estudante,6,5.00,,,2019-02-07 08:20:59.870763
+BRL,Plano Diário Estudante,1,Plano Diário Estudante,7,4.00,,,2019-02-07 08:20:59.870763
+BRL,Apenas cadastro,1,Apenas cadastro,12,0.00,,,2019-02-07 08:20:59.870763
+BRL,Plano Anual Parcelado (x12),1,Plano Anual Parcelado (x12),13,100.00,,,2019-02-07 08:20:59.870763
+CAD,9¢/minute - the most flexible SoBi plan. ,1,Pay As You Go,payment_plan_739,0.0,,https://widget.socialbicycles.com/24/739,2019-02-07 08:20:59.870763
+CAD,20% off our regular price for Mac students only! You must click the email verification before riding.,1,McMaster Student Monthly,payment_plan_664,12.0,,https://widget.socialbicycles.com/24/664,2019-02-07 08:20:59.870763
+CAD,Prepaid credit cards are allowed. Rider must carry positive balance and have a confirmed email address. ,1,Prepaid Pay As You Go,payment_plan_747,0.0,,https://widget.socialbicycles.com/24/747,2019-02-07 08:20:59.870763
+CAD,,1,Monthly Member,payment_plan_51,15.0,,https://widget.socialbicycles.com/24/51,2019-02-07 08:20:59.870763
+CZK,,1,Měsíční předplatné,payment_plan_942,260.0,,https://widget.socialbicycles.com/64/942,2019-02-07 08:20:59.870763
+CZK,Velonet Praha 4 - interval 15 minut zdarma,1,Jednorázová výpůjčka,payment_plan_770,0.0,,https://widget.socialbicycles.com/64/770,2019-02-07 08:20:59.870763
+USD,"Monthly Membership includes unlimited 60-minute trips. $4 per each additional 30 minutes. Plus One-Time $15 Enrollment Fee, Auto-Renew Enabled.",0,Local30,bcycle_austin_218,11.91,,austinbcycle.com,2019-02-07 08:20:59.870763
+USD,Annual Membership includes unlimited 60-minute trips. $4 per each additional 30 minutes. B-connected access to other B-cycle cities included.,0,Local365,bcycle_austin_159,86.6,,austinbcycle.com,2019-02-07 08:20:59.870763
+USD,ONLY FOR RIDERS AGE 13-17. Annual Membership includes unlimited 60-minute trips. $4 per each additional 30 minutes. Comes with helmet. ,0,Local365 Youth (age 13-17 riders),bcycle_austin_270,86.6,,austinbcycle.com,2019-02-07 08:20:59.870763
+USD,24-Hour Access Pass includes unlimited 60-minute trips. $4 per each additional 30 minutes.,0,Explorer,bcycle_austin_168,12.99,,austinbcycle.com,2019-02-07 08:20:59.870763
+USD,$1.09/mo. MUST USE UT ISSUED E-MAIL. Non-students will be charged $12.99 for day pass. Student membership includes unlimited 60-min. trips. $4 each add'l 30 min. Only valid for current UT students.,0,U.T. Student Membership,bcycle_austin_381,1.09,,austinbcycle.com,2019-02-07 08:20:59.870763
+USD,Annual Membership includes unlimited 60-min. trips & Guest Pass w/ 8 Trips for a Friend. $4 per each add'l 30 mins. Main member pass includes B-connected access to other B-cycle cities.,0,Local365+Guest Pass,bcycle_austin_350,97.43,,austinbcycle.com,2019-02-07 08:20:59.870763
+USD,$18 + tax. 72-HR Access Pass includes unlimited 60-min trips.,0,3-Day Explorer,bcycle_austin_483,19.49,,austinbcycle.com,2019-02-07 08:20:59.870763
+USD,"$1 + tax to start. $2 + tax for first 30 minutes of riding each trip. $4 + tax each additional 30 minutes of your ride. Buy each time you ride. Good through January 31, 2019",0,$1 Pay by Trip Winter Special,bcycle_austin_507,1.09,,austinbcycle.com,2019-02-07 08:20:59.870763
+USD,,0,7 Day,bcycle_aventura_325,26.75,,aventura.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_aventura_326,48.15,,aventura.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_battlecreek_254,30.0,,battlecreek.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,30 Day,bcycle_battlecreek_150,15.0,,battlecreek.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Aluminum Access with perks! A limited edition B-Card, limited edition t-shirt, & $50 Downtown Lincoln Gift Card to celebrate being a hardcore BikeLNK supporter.",0,Founding Member,bcycle_bikelnk_404,150.0,,bikelnk.bcycle.com,2019-02-07 08:20:59.870763
+USD,A three day pass with unlimited 30 minute trips.,0,Visiting Voyager Pass,bcycle_bikelnk_531,10.0,,bikelnk.bcycle.com,2019-02-07 08:20:59.870763
+USD,30 minute single ride pass to BikeLNK,0,Quick Tripper Pass,bcycle_bikelnk_472,3.0,,bikelnk.bcycle.com,2019-02-07 08:20:59.870763
+USD,An annual pass with unlimited 30 minute trips.,0,Aluminum Access,bcycle_bikelnk_392,80.0,,bikelnk.bcycle.com,2019-02-07 08:20:59.870763
+USD,A monthly pass with unlimited 30 minute trips.,0,Monthly Member,bcycle_bikelnk_393,12.0,,bikelnk.bcycle.com,2019-02-07 08:20:59.870763
+USD,"$5 one-time sign-up fee. All trips charged at $.08/min, including reservation and hold time. User may rent up to 4 bikes. $2 fee for parking out of a station and $10 fee for parking outside of service area apply. Eligible for BIKETOWN Bonus when applicable. ",1,Pay-As-You-Go,payment_plan_332,5.0,,https://widget.socialbicycles.com/92/332,2019-02-07 08:20:59.870763
+USD,$99 upfront for annual membership. Additional bikes billed at $0.08/min. Free time applies to first bike only. $10 fee for ending trip out of system area applies. Eligible for BIKETOWN Bonus when applicable. ,1,Annual Membership,payment_plan_611,99.0,,https://widget.socialbicycles.com/92/611,2019-02-07 08:20:59.870763
+USD,$19/month. Additional bikes billed at $0.08/min. Free time applies to first bike only. $2 fee for ending trip outside of a station and $10 fee for ending trip out of system area apply. Eligible for BIKETOWN Bonus when applicable. ,1,Month-to-Month ,payment_plan_855,19.0,,https://widget.socialbicycles.com/92/855,2019-02-07 08:20:59.870763
+USD,Please be sure to sign up using the email provided by your employer. This will gain you access to all BRiteBikes around Bishop Ranch for free!,1,Bishop Ranch Tenant Plan,payment_plan_593,0.0,,https://widget.socialbicycles.com/34/593,2019-02-07 08:20:59.870763
+USD,"Examples: gmail, yahoo, hotmail, comcast, etc. Signing up for this plan means you do not have an email address provided by your employer. We will have to verify your identity with your employer so it may take sometime for your account to become active. Thank you for your patience.",1,Bishop Ranch Tenant Plan - Companies Using Common Email Domains,payment_plan_599,0.0,,https://widget.socialbicycles.com/34/599,2019-02-07 08:20:59.870763
+USD,"The Premium Annual Membership plan offers two hours of 'free' ride time a day.
+
+For all rides over two hours users will be charged at a rate of $5 per hour, which is prorated to the minute.
+
+All memberships renew automatically unless the member  turns off auto-renew.
+
+Premium members do not pay the $2 Out of Hub fee for locking a bike away from a station hub. 
+
+You can rent up to six bikes on a single account but each additional rental is charged at the Pay As You Go rate of $5/hour.
+",1,Premium Annual Membership,payment_plan_126,100.0,,https://widget.socialbicycles.com/32/126,2019-02-07 08:20:59.870763
+USD,"Annual membership provides users one hour of free ride time daily. Any trips over an hour will be charged at the Pay As You Go rate of $5/hour, prorated to the minute. 
+
+All memberships renew automatically unless you turn off the auto-renew feature through your account home page.
+
+Bikes can be put on hold, but hold time counts just like ride time.
+
+You can rent up to six bikes on a single account, but each additional bike will be charged at the Pay As You Go rate of $5/hour.",1,Annual Membership,payment_plan_125,70.0,,https://widget.socialbicycles.com/32/125,2019-02-07 08:20:59.870763
+USD,"This plan charges a rate of $5 per hour prorated, which is deducted from your initial investment as you ride the bike. If you exceed your initial investment additional time is charged at the same prorated rate.
+
+Locking a bike stops the clock and ends the trip. Locking away from a station hub results in a $2 fee every time the bike is locked away from a station hub.
+  
+If you choose to use the 'Hold' function on the bike, you will be charged at the same $5/hour rate as if you were riding the bike.
+
+You can rent up to six bikes on a single account, each additional rental is charged the same $5/hour rate.",1,Pay as you Go,payment_plan_124,0.0,,https://widget.socialbicycles.com/32/124,2019-02-07 08:20:59.870763
+USD,"The Monthly Membership provides one hour of 'free' ride time every day for 30 days. Any time over one hour is charged at a rate of $5/hour, which is prorated based on actual ride time.
+
+Monthly membership does not renew automatically. If you want to continue your membership month-to-month you will need to turn on the auto-renew feature inside your account.
+
+Putting a bike on hold counts just like ride time.
+
+You can rent up to six bikes on one account. Each additional bike rental will be charged at the $5/hour Pay As You Go rate.",1,Monthly Membership,payment_plan_127,15.0,,https://widget.socialbicycles.com/32/127,2019-02-07 08:20:59.870763
+USD,"Student Annual membership provides members with one hour of free ride time daily. 
+
+You must use a valid student email address to be eligible for the discounted student annual rate and respond to the email confirmation before your account will be activated.
+
+Any rides over one hour will be charged at the Pay As You Go rate of $5/hour, which is prorated to the minute.
+
+Membership renews automatically unless the member turns off the auto-renew feature.
+
+Bikes may be put on hold. Hold time counts just like ride time.
+
+You can rent up to six bikes on a single account, but each additional rental is charged at the Pay As You Go rate of $5/hour, prorated.",1,Student Annual Membership,payment_plan_128,25.0,,https://widget.socialbicycles.com/32/128,2019-02-07 08:20:59.870763
+USD,Get an unlimited number of 60 minute trips and ride for no extra cost in 25 cities around the country. Overtime fees for trips over 60 minutes: $3 per half hour,0,Republic Rider (Annual),bcycle_boulder_77,88.0,,boulder.bcycle.com,2019-02-07 08:20:59.870763
+USD,This auto-renewing monthly subscription gets you an unlimited number of 30 minute trips. Overtime fees for trips over 30 minutes: $3 per half hour,0,People's Pedaler (Monthly),bcycle_boulder_301,11.0,,boulder.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Only pay for what you use. $2 for the first half hour of each trip, $3 for every half hour after that.",0,Casual Cruiser (Pay-Per-Trip),bcycle_boulder_302,0.0,,boulder.bcycle.com,2019-02-07 08:20:59.870763
+USD,Just visiting? Get an unlimited number of 30 minute trips for a 24 hour period. Overtime fees for trips over 30 minutes: $3 per half hour.,0,Day Tripper (24 hour),bcycle_boulder_364,8.0,,boulder.bcycle.com,2019-02-07 08:20:59.870763
+USD,This plan will renew until the auto-renewal setting is changed or subscription is canceled by Rider. This plan includes 90 minutes of rental time each calendar day for 30 days. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $7/hour prorated by the minute. All other fees and credits are described in the Rental Policy. ,1,Monthly ,payment_plan_225,25.0,,https://widget.socialbicycles.com/42/225,2019-02-07 08:20:59.870763
+USD,Membership fees will be charged every 30 days until the auto-renewal setting is changed or subscription is canceled by Rider. This plan includes 90 minutes of rental time each calendar day for 30 days. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $7/hour prorated by the minute. All other fees and credits are described in the Rental Policy. ,1,Academic ,payment_plan_380,7.0,,https://widget.socialbicycles.com/42/380,2019-02-07 08:20:59.870763
+USD,Membership will renew annually until the auto-renewal setting is changed or subscription is canceled by Rider. Overage fees not included in the plan will be billed monthly. This plan includes 90 minutes of rental time each calendar day for 365 days. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $7/hour prorated by the minute. All other fees and credits are described in the Rental Policy. ,1,Annual ,payment_plan_249,99.0,,https://widget.socialbicycles.com/42/249,2019-02-07 08:20:59.870763
+USD,"Bike Share for All equity plan. Send photo verification of the account holder's EBT card CHIRLA membership card, or proof that you reside within one of our low-income housing partners to info@bikeshareconnect.com to qualify for this plan. At this time these are the only methods of verification.",1,Bike Share for All ,payment_plan_457,5.0,,https://widget.socialbicycles.com/42/457,2019-02-07 08:20:59.870763
+USD,"Minimum purchase of $7 is charged upon sign up to initiate a prepaid balance on the account. Rent up to 6 bikes at the same time charged at the same rate, $7/hour prorated by the minute. All ride time over the initial preloaded amount is charged $7/hour prorated by the minute.
+",1,Pay As You Go,payment_plan_186,0.0,,https://widget.socialbicycles.com/42/186,2019-02-07 08:20:59.870763
+USD,90 minutes of ride time everyday for 1 year. Valid ucla.edu email address required. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $0.12 per minute. All other fees and credits are described in the rental policy. ,1,UCLA Annual ,payment_plan_837,72.0,,https://widget.socialbicycles.com/42/837,2019-02-07 08:20:59.870763
+USD,,0,7 Day,bcycle_broward_104,26.75,,broward.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_broward_105,48.15,,broward.bcycle.com,2019-02-07 08:20:59.870763
+USD,If you have a Pay As You Go Pass and want to upgrade call 414-931-1121 before sign-up. The 30-Day Pass gives you unlimited 60-minute trips for 30 days and $3/30 minutes for trips over 60-minutes.,0,30-Day Pass,bcycle_bublr_197,15.0,,http://bublrbikes.com,2019-02-07 08:20:59.870763
+USD,If you have a Pay As You Go Pass and want to upgrade call 414-931-1121 before sign-up. The Annual Pass gives you unlimited 60-minute trips for 365 days and $3/30 minutes for trips over 60-minutes.,0,Annual Pass,bcycle_bublr_305,80.0,,http://bublrbikes.com,2019-02-07 08:20:59.870763
+USD,The Buslr is specifically designed to go on the back of the MCTS M-Card. The Buslr Pass gives you unlimited 60 minute trips for 365 days. Trips in excess of 60 minutes will be charged $3/30 minutes.,0,Buslr Card,bcycle_bublr_371,80.0,,http://bublrbikes.com,2019-02-07 08:20:59.870763
+USD,With the 24hr pass you can ride 2hrs before having to dock.  Remember as long as you dock every 2hrs your membership is only $8.  If you go over 2hrs you will incur usage fees.,0,24-Hour Pass,bcycle_charlotte_119,8.0,,charlotte.bcycle.com,2019-02-07 08:20:59.870763
+USD,Save $20 when you purchase an entire year of rides with Charlotte Bcycle. Enjoy unlimited 120 minute rides. Don't forget to dock every 2 hours to avoid usage fees. ,0,Annual Membership,bcycle_charlotte_120,100.0,,charlotte.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Enjoy unlimited 120-minutes rides for a month! Rides longer than 2 hours are subject to a usage fee of $4 per additional 30 minutes. Don't forget to dock every 2 hours, in order to avoid usage fees. ",0,Monthly - Regular,bcycle_charlotte_418,9.99,,charlotte.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,24 Hour,bcycle_cincyredbike_199,8.0,,https://redbike.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_cincyredbike_200,80.0,,https://redbike.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Monthly,bcycle_cincyredbike_377,15.0,,https://redbike.bcycle.com,2019-02-07 08:20:59.870763
+USD,Free for current APSU Students. MUST USE APSU ISSUED E-MAIL & PROMO CODE.  A promo code will be provided to you via email at the start of the semester. Check your email!  ,0,APSU Student,bcycle_clarksville_457,50.0,,clarksville.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,24 Hour,bcycle_clarksville_285,3.0,,clarksville.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,7 Day,bcycle_clarksville_286,10.0,,clarksville.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,30 Day,bcycle_clarksville_287,15.0,,clarksville.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_clarksville_288,50.0,,clarksville.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Annual Membership for Clemson Students, Faculty and Staff with @clemson.edu email",0,Annual Membership,bcycle_clemson_351,15.0,,clemson.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Annual Student Plan
+Currently Applies to: USF, USF HEALTH, HCC, UT,SPC, St. Leo",1,Annual Student,payment_plan_113,59.0,,https://widget.socialbicycles.com/11/113,2019-02-07 08:20:59.870763
+USD,"Student, reoccurring monthly membership with 60 minutes of ride time daily.
+
+Currently Applies to: USF, USF HEALTH, HCC, UT,SPC, St. Leo",1,Monthly Student,payment_plan_618,7.0,,https://widget.socialbicycles.com/11/618,2019-02-07 08:20:59.870763
+USD,,1,Annual,payment_plan_64,79.0,,https://widget.socialbicycles.com/11/64,2019-02-07 08:20:59.870763
+USD,Monthly Subscription including 60 minutes of ride time per day,1,Monthly Basic Subscription,payment_plan_112,15.0,,https://widget.socialbicycles.com/11/112,2019-02-07 08:20:59.870763
+USD,Monthly Plus Subscription including 90 minutes of ride time per day,1,Monthly Plus Subscription,payment_plan_164,20.0,,https://widget.socialbicycles.com/11/164,2019-02-07 08:20:59.870763
+USD,"The Prepaid Pay as You Go plan adds value to your Social Bicycles account which is redeemed as you ride. Once you sign up for a Pay As You Go plan, you're charged the amount you selected plus tax which will be deposited as credit into your account. You will then be charged the amount you designated any time your account goes below $1.00
+
+More frequent riders may want to get an Annual Membership, which will give you 60 minutes of time per day for just $79 per year!
+",1,Pay As You Go,payment_plan_25,0.0,,https://widget.socialbicycles.com/11/25,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_columbiacounty_170,65.0,,columbiacounty.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Single Use Pass,bcycle_columbiacounty_177,8.0,,columbiacounty.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Monthly,bcycle_columbike_314,20.0,,columbike.bcycle.com/,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_columbike_315,80.0,,columbike.bcycle.com/,2019-02-07 08:20:59.870763
+USD,,0,Bike Tour,bcycle_columbike_316,12.0,,columbike.bcycle.com/,2019-02-07 08:20:59.870763
+USD,30 days. 60 day min purchase to avoid $15 cancel fee. Unlimited 0-60 min trips. Trips >60 mins are $5/addl 30 min.,0,Monthly,bcycle_denver_52,15.0,,denver.bcycle.com,2019-02-07 08:20:59.870763
+USD,365 days. Unlimited 0-60 min trips. Dock bike every 60 minutes. Trips over 60 mins are $5 for each addl 30 mins.,0,Annual,bcycle_denver_53,75.0,,denver.bcycle.com,2019-02-07 08:20:59.870763
+USD,365 day access pass. $3 for each half hour of use.,0,Flex Pass,bcycle_denver_309,15.0,,denver.bcycle.com,2019-02-07 08:20:59.870763
+USD,24 HR pass. Unlimited 0-30 min trips. Dock bike every 30 minutes. Trips over 30 mins are $5 each addl 30 mins.,0,24 HR Online,bcycle_denver_348,9.0,,denver.bcycle.com,2019-02-07 08:20:59.870763
+USD,"24 HR rental. Keep a bike all day, no addl fees. Use cable lock when not riding. Return bike to any station.",0,24 HR Rental,bcycle_denver_363,35.0,,denver.bcycle.com,2019-02-07 08:20:59.870763
+USD,3-day pass. Unlimited 0-30 min trips. Dock bike every 30 minutes. Trips over 30 mins are $5 each addl 30 mins.,0,3-Day Online,bcycle_denver_522,19.0,,denver.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Monthly,bcycle_desmoines_59,10.6,,desmoines.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_desmoines_60,84.8,,desmoines.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Fun Pass,bcycle_desmoines_61,6.36,,desmoines.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Download the BCycle app on your phone to buy this $6 Day Pass. You get unlimited bike checkouts for the next 24 hours! Keep all your bike checkouts under 30 minutes to avoid any extra fees.  Keep the bike for only $2 more, every 30 minutes.",0,1 Day Pass (APP ONLY),bcycle_elpaso_403,6.0,,elpaso.bcycle.com,2019-02-07 08:20:59.870763
+USD,"A great value! Get access to unlimited bike checkouts for the next 30 days, for only $1 a day.  ",0,30 Day Pass,bcycle_elpaso_274,30.0,,elpaso.bcycle.com,2019-02-07 08:20:59.870763
+USD,Get instant access to any bike in our system for the next 12 months with an El Paso SunCycle FOB!  Annual Members also receive a customized Hydro Flask bottle for signing up!,0,Annual Membership,bcycle_elpaso_275,75.0,,elpaso.bcycle.com,2019-02-07 08:20:59.870763
+USD,Get to class and anywhere else you can on a SunCycle El Paso bike for the next semester for only $50! ,0,Semester Pass,bcycle_elpaso_276,50.0,,elpaso.bcycle.com,2019-02-07 08:20:59.870763
+USD,BEST VALUE - Get unlimited 60-minutes rides for a full year! Rides longer than 60 minutes are subject to a usage fee of $2.50 per additional 30 minutes.,0,Annual,bcycle_memphis_423,120.0,,explorebikeshare.bcycle.com,2019-02-07 08:20:59.870763
+USD,Enjoy unlimited 60 minute rides for up to seven days. Single rides longer than 60 minutes are subject to a usage fee of $2.50 per additional 30 minutes.,0,Weekly ,bcycle_memphis_424,12.0,,explorebikeshare.bcycle.com,2019-02-07 08:20:59.870763
+USD,MOST POPULAR - Enjoy unlimited 60-minute rides for a month! Rides longer than 60 minutes are subject to a usage fee of $2.50 per 30 minutes. Change renewal settings by logging into your Account.,0,Monthly,bcycle_memphis_425,15.0,,explorebikeshare.bcycle.com,2019-02-07 08:20:59.870763
+USD,Each Single Ride is good for one trip up to 60 minutes. Rides longer than 60 minutes are subject to a usage fee of $2.50 per 30 minutes.,0,Single Ride,bcycle_memphis_427,5.0,,explorebikeshare.bcycle.com,2019-02-07 08:20:59.870763
+USD,"This membership gives you unlimited rides of 1 hour or less. Remember to ride, return and repeat! You will be charged $4 extra every hour after first hour if bike is not returned within 1 hour. ",0,Annual,bcycle_fortworth_137,80.0,,fortworth.bcycle.com,2019-02-07 08:20:59.870763
+USD,Enjoy all the perks of an annual membership with the convenience of a low monthly payment. There will be a one time $15 activation fee the first month you sign up.,0,Monthly Auto Renewing,bcycle_fortworth_138,11.91,,fortworth.bcycle.com,2019-02-07 08:20:59.870763
+USD,"This short-term membership gives you unlimited rides of one hour or less. Remember to ride, return and repeat! You will be charged $4 extra every hour after first hour if bike is not returned within an hour. ",0,Unlimited 1 HR Rides for 24-HRS  ,bcycle_fortworth_141,8.66,,fortworth.bcycle.com,2019-02-07 08:20:59.870763
+USD,3-day pass includes unlimited one-hour rides. Extra charges occur if bike is not returned within one hour. ,0,3-Day Website ,bcycle_fortworth_151,16.24,,fortworth.bcycle.com,2019-02-07 08:20:59.870763
+USD,Students get to enjoy all the perks of an annual membership with a 6 month long membership. ,0,Semester (6mo),bcycle_fortworth_233,50.0,,fortworth.bcycle.com,2019-02-07 08:20:59.870763
+USD,Ride like a local! This membership includes unlimited hour-long rides.,0,"Membership: pay monthly, auto-renewing",bcycle_greatrides_245,15.0,,greatrides.bcycle.com,2019-02-07 08:20:59.870763
+USD,Bike and ride like a local.  This membership includes unlimited hour-long rides,0,Monthly Multipass ,bcycle_greatrides_414,45.0,,greatrides.bcycle.com,2019-02-07 08:20:59.870763
+USD,Bike AND ride like a local! This membership includes unlimited hour-long bike share rides AND an annual pass to MAT Bus.,0,Membership Multi-Pass - One-Year Commitment,bcycle_greatrides_415,280.0,,greatrides.bcycle.com,2019-02-07 08:20:59.870763
+USD,Ride and Bike for a day!,0,Daily Multipass,bcycle_greatrides_417,5.0,,greatrides.bcycle.com,2019-02-07 08:20:59.870763
+USD,Ride like a local! This membership includes unlimited hour-long rides.,0,"Membership: pay once, one-year commitment",bcycle_greatrides_213,75.0,,greatrides.bcycle.com,2019-02-07 08:20:59.870763
+USD,This pass give you unlimited 30-minute rides for 4 consecutive days. Rides longer than 30 minutes are subject to an Extra Time Charge of $5 per additional 60 minutes.,0,4-Day Membership,bcycle_greenbikeslc_135,15.0,,www.greenbikeslc.org,2019-02-07 08:20:59.870763
+USD,This pass give you unlimited 60-minute rides for 365 days. Rides longer than 60 minutes are subject to an Extra Time Charge of $5 per additional 60 minutes.,0,Annual Membership,bcycle_greenbikeslc_136,75.0,,www.greenbikeslc.org,2019-02-07 08:20:59.870763
+USD,This pass give you unlimited 30-minute rides for 24 hours. Rides longer than 30 minutes are subject to an Extra Time Charge of $5 per additional 60 minutes.,0,24-Hour Pass,bcycle_greenbikeslc_357,7.0,,www.greenbikeslc.org,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_greenville_129,60.0,,greenville.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Weekly,bcycle_greenville_130,15.0,,greenville.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,24-Hour,bcycle_greenville_131,5.0,,greenville.bcycle.com,2019-02-07 08:20:59.870763
+USD,Requires confirmed .edu email address. Check out up to 3 additional bikes at 12¢/minute using account number and PIN.,1,Student (6 months),payment_plan_258,25.0,,https://widget.socialbicycles.com/20/258,2019-02-07 08:20:59.870763
+USD,"Discounts available for businesses and organizations. Check out up to 3 additional bikes at 12¢/minute with account number and PIN.
+",1,Annual,payment_plan_356,150.0,,https://widget.socialbicycles.com/20/356,2019-02-07 08:20:59.870763
+USD,Activates upon purchase. Includes 180 minutes of free usage. Check out up to 3 additional bikes at 12¢/minute using account number and PIN. No credit or refund for unused minutes.,1,7-Day Pass (180 free minutes),payment_plan_468,10.0,,https://widget.socialbicycles.com/20/468,2019-02-07 08:20:59.870763
+USD,3-month minimum. Auto renews monthly. Check out up to 3 additional bikes at 12¢/minute using account number and PIN.,1,Monthly Plan (3 month minimum),payment_plan_43,15.0,,https://widget.socialbicycles.com/20/43,2019-02-07 08:20:59.870763
+USD,3-month minimum. Auto renews monthly. Check out up to 3 additional bikes at 12¢/minute using account number and PIN.,1,Monthly Plus (3 month minimum),payment_plan_192,20.0,,https://widget.socialbicycles.com/20/192,2019-02-07 08:20:59.870763
+USD,"Minutes are purchased in advance and balance of available time is reduced when used, with no expiration. Check out up to 4 bikes at a time at 12¢/minute using your account number and PIN. ",1,Pay As You Go,payment_plan_101,0.0,,https://widget.socialbicycles.com/20/101,2019-02-07 08:20:59.870763
+USD,,0,Heartland Pass (Annual Pay),bcycle_heartland_93,80.0,,heartland.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,FUN! Pass,bcycle_heartland_97,6.0,,heartland.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Heartland Pass (Monthly Pay),bcycle_heartland_248,10.0,,heartland.bcycle.com,2019-02-07 08:20:59.870763
+USD,Start and end your ride at any station. Unlimited trips: First 60 minutes of EVERY trip are free. Overages: $3 per 30 minutes.,0,Monthly Membership,bcycle_houston_109,9.0,,houston.bcycle.com,2019-02-07 08:20:59.870763
+USD,Start and end your ride at any station. Unlimited trips: First 60 minutes of EVERY trip are free. Overages: $3 per 30 minutes. RFID card included.,0,Annual Membership,bcycle_houston_110,99.0,,houston.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Only $20 with promo code and school email. Codes listed under ""How It Works"" - Student Memberships. First 60 minutes of EVERY trip are free. Overages: $3 per 30 minutes. Expires May 31.",0,Spring Student/Staff Membership,bcycle_houston_517,40.0,,houston.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Indego30,bcycle_indego_239,17.0,,www.rideindego.com,2019-02-07 08:20:59.870763
+USD,,0,Indego30 Cash (Legacy pass type),bcycle_indego_240,17.0,,www.rideindego.com,2019-02-07 08:20:59.870763
+USD,,0,IndegoFlex,bcycle_indego_241,10.0,,www.rideindego.com,2019-02-07 08:20:59.870763
+USD,,0,Access Pass,bcycle_indego_243,5.0,,www.rideindego.com,2019-02-07 08:20:59.870763
+USD,,0,Access Cash Pass (Legacy pass type),bcycle_indego_245,5.0,,www.rideindego.com,2019-02-07 08:20:59.870763
+USD,,0,$12 Pass (IBX & Student),bcycle_indego_246,12.0,,www.rideindego.com,2019-02-07 08:20:59.870763
+USD,,0,Day Pass (online purchase),bcycle_indego_251,10.0,,www.rideindego.com,2019-02-07 08:20:59.870763
+USD,,0,Indego365,bcycle_indego_252,156.0,,www.rideindego.com,2019-02-07 08:20:59.870763
+USD,,0,Indego365 Access,bcycle_indego_254,48.0,,www.rideindego.com,2019-02-07 08:20:59.870763
+USD,Day pass grants access to Unlimited 30 minute trips for a 24 hour period. Bike must be docked every 30 minutes to avoid usage fees. ,0,24-Hour Pass,bcycle_pacersbikeshare_183,8.56,,http://pacersbikeshare.org,2019-02-07 08:20:59.870763
+USD,Annual Membership grants access to unlimited 30 minute trips for a 365 day period. Bike must be docked every 30 minutes to avoid usage fees. ,0,Annual Pass,bcycle_pacersbikeshare_184,85.6,,http://pacersbikeshare.org,2019-02-07 08:20:59.870763
+USD,A Monthly Pass grants you access to unlimited 30 minute trips for a 30 day period. Bike must be docked every 30 minutes to avoid usage fees. ,0,Monthly Pass,bcycle_pacersbikeshare_355,16.05,,http://pacersbikeshare.org,2019-02-07 08:20:59.870763
+USD,Year membership to Jackson County bike share.,0,Annual Membership,bcycle_jacksoncounty_356,50.0,,jacksoncounty.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Valencia College Plan that has 2 hour rentals instead of 1 hour. We have this special due to our sponsorship partnership, and the lack of stations near the Winter Park Campus.",1,Valencia College Annual,payment_plan_283,59.0,,https://widget.socialbicycles.com/23/283,2019-02-07 08:20:59.870763
+USD,,1,Student Monthly,payment_plan_204,10.0,,https://widget.socialbicycles.com/23/204,2019-02-07 08:20:59.870763
+USD,"Orlando Health Employees get a year of Juice Bike Share for only $8/month and your first month is free!
+Make sure to sign up and confirm with your ""orlandohealth.com"" email address to unlock this plan. 
+
+First month free
+$8/ month after that, with annual commitment
+Access to 200 bikes in 34 Stations
+Unlimited rides
+90 minutes of riding time per day included
+Additional riding time 10 cents / minute
+$2 fee for locking bike outside of a station
+$20 fee for locking bike outside of the system area",1,Orlando Health Employees,payment_plan_415,96.0,,https://widget.socialbicycles.com/23/415,2019-02-07 08:20:59.870763
+USD,"Valencia College! Get a year of Juice Bike Share for only $8/month! 
+Make sure to sign up and confirm with your school email address, as this is plan is ONLY for emails ending with either:
+
+valencia.edu,
+valenciacollege.edu, or
+mail.valenciacollege.edu 
+
+$8/ with annual commitment,
+Access to 200 bikes in 34 Stations,
+120 minutes of free riding time per day,
+Additional riding time 10 cents / minute,
+$20 fee for locking bike outside of the system area",1,Valencia College Annual paid Monthly,payment_plan_416,96.0,,https://widget.socialbicycles.com/23/416,2019-02-07 08:20:59.870763
+USD,Discounted Student Rate Plan,1,Student Annual,payment_plan_146,59.0,,https://widget.socialbicycles.com/23/146,2019-02-07 08:20:59.870763
+USD,"The Prepaid Pay as You Go plan adds value to your Juice Bikes account which is redeemed as you ride. Once you sign up for a Pay As You Go plan, you're charged the amount you selected plus tax which will be deposited as credit into your account. You will then be charged the amount you designated any time your account goes below $1.00
+
+More frequent riders may want to get an Annual Membership, which will give you 60 minutes of time per day for just $79 per year!
+",1,Pay As You Go,payment_plan_98,0.0,,https://widget.socialbicycles.com/23/98,2019-02-07 08:20:59.870763
+USD,This $20/ month subscription lets you ride for 90 minutes/day.,1,Monthly Plus,payment_plan_45,20.0,,https://widget.socialbicycles.com/23/45,2019-02-07 08:20:59.870763
+USD,,1,Monthly,payment_plan_137,15.0,,https://widget.socialbicycles.com/23/137,2019-02-07 08:20:59.870763
+USD,"Annual Members enjoy a whole year of bike share access to 200 bikes, with 60 minutes of free ride time per day.",1,Annual Membership,payment_plan_138,79.0,,https://widget.socialbicycles.com/23/138,2019-02-07 08:20:59.870763
+USD,"First ride paid in advance plus applicable taxes. Always lock to a bike rack in the system area.
+",1,Single Ride,payment_plan_917,0.0,,https://widget.socialbicycles.com/200/917,2019-02-07 08:20:59.870763
+USD,"First ride paid in advance plus applicable taxes. Always lock to a bike rack in the system area.
+",1,Single Ride,payment_plan_915,0.0,,https://widget.socialbicycles.com/202/915,2019-02-07 08:20:59.870763
+USD,,1,Pay-As-You-Go ,payment_plan_689,0.0,,https://widget.socialbicycles.com/136/689,2019-02-07 08:20:59.870763
+USD,Plus applicable taxes and fees. Always lock to a bike rack in the system area. $25 fee applies to out-of-system area locking.,1,Single Ride,payment_plan_980,0.0,,https://widget.socialbicycles.com/211/980,2019-02-07 08:20:59.870763
+USD,Plus applicable taxes and fees. Lock to a bike rack keeping them out of the way of pedestrians and other vehicles.,1,Single Ride,payment_plan_1039,0.0,,https://widget.socialbicycles.com/208/1039,2019-02-07 08:20:59.870763
+USD,"We cannot currently accept applications in NYC through the JUMP Bikes app. To book bikes in NYC in the meantime, please use the UBER app.",1,Download and use the UBER app,payment_plan_995,0.0,,https://widget.socialbicycles.com/206/995,2019-02-07 08:20:59.870763
+USD,"Always lock to a bike rack in the system area. $25 fee applies to out-of-system area locking.
+",1,Monthly Plan,payment_plan_999,20.0,,https://widget.socialbicycles.com/153/999,2019-02-07 08:20:59.870763
+USD,First ride paid in advance plus applicable taxes. Always lock to a bike rack in the system area. $25 fee applies to out-of-system area locking.,1,Single Ride,payment_plan_997,0.0,,https://widget.socialbicycles.com/153/997,2019-02-07 08:20:59.870763
+USD,*Plus applicable taxes and fees. Rider must have eligibility approved. Always lock to a bike rack in the system area. $25 fee applies to out-of-system area locking.,1,Student Plan,payment_plan_911,30.0,,https://widget.socialbicycles.com/165/911,2019-02-07 08:20:59.870763
+USD,Includes 1 hour of riding time per day. Use your hour however you like: one long trip or multiple short trips! All time prorated to the minute. Additional time billed at $4 per hour.,1,Monthly,payment_plan_852,30.0,,https://widget.socialbicycles.com/165/852,2019-02-07 08:20:59.870763
+USD,First ride paid in advance plus applicable taxes.  Always lock to a bike rack in the system area,1,Single Ride,payment_plan_854,0.0,,https://widget.socialbicycles.com/165/854,2019-02-07 08:20:59.870763
+USD,Plus applicable taxes and fees. Lock to a bike rack keeping them out of the way of pedestrians and other vehicles.,1,Single Ride,payment_plan_1065,0.0,,https://widget.socialbicycles.com/262/1065,2019-02-07 08:20:59.870763
+USD,First ride paid in advance plus applicable taxes.  Always lock to a bike rack in the system area.,1,Single Ride,payment_plan_752,0.0,,https://widget.socialbicycles.com/155/752,2019-02-07 08:20:59.870763
+USD,Includes 1 hour of riding time per day.  Use your hour however you like: one long trip or multiple short trips!  All time prorated to the minute.  Additional time billed at $4 per hour,1,Monthly,payment_plan_849,30.0,,https://widget.socialbicycles.com/144/849,2019-02-07 08:20:59.870763
+USD,First ride paid in advance plus applicable taxes.  Always lock to a bike rack in the system area.,1,Single Ride,payment_plan_850,0.0,,https://widget.socialbicycles.com/144/850,2019-02-07 08:20:59.870763
+USD,Plus applicable taxes and fees.,1,Single Ride,payment_plan_1063,0.0,,https://widget.socialbicycles.com/261/1063,2019-02-07 08:20:59.870763
+USD,$3 per 30 minutes.  ,0,Walk-Up Mobile Pass,bcycle_kc_459,3.0,,kc.bcycle.com,2019-02-07 08:20:59.870763
+USD,Bike share equity program.  $10 annual membership for individuals receiving needs-based services from a program partner.  ,0,Bike Share for All Program Membership,bcycle_kc_460,65.0,,kc.bcycle.com,2019-02-07 08:20:59.870763
+USD,Keep the bike for up to 24 hours with no extra fees.  ,0,24 Hour Rental,bcycle_kc_376,35.0,,kc.bcycle.com,2019-02-07 08:20:59.870763
+USD,31-Day BCycle membership plus RideKC bus pass. Unlimited bus rides and unlimited 60 minute bike trips.,0,Bike + Bus Pass,bcycle_kc_405,50.0,,kc.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Unlimited 30 minute trips all day.  Ride from station to station, time limits start over with each checkout.  Additional time is $2 per 30 minutes. ",0,24 Hour Membership,bcycle_kc_114,7.0,,kc.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Unlimited 60 minute trips all day.  Ride from station to station, time limits start over with each checkout.  Additional time is $2 per 30 minutes. ",0,Annual Membership,bcycle_kc_115,65.0,,kc.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Unlimited 30 minute trips all week.  Ride from station to station, time limits start over with each checkout.  Additional time is $2 per 30 minutes.  ",0,7 Day Membership,bcycle_kc_116,15.0,,kc.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Unlimited 30 minute trips for 31 days.  Ride from station to station, time limits start over with each checkout.  Additional time is $2 per 30 minutes. ",0,31 Day Membership,bcycle_kc_117,25.0,,kc.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Fun Pass Online,bcycle_linkdayton_239,5.0,,www.linkdayton.org,2019-02-07 08:20:59.870763
+USD,,0,Annual Membership,bcycle_linkdayton_240,70.0,,www.linkdayton.org,2019-02-07 08:20:59.870763
+USD,,0,Monthly Membership,bcycle_linkdayton_242,12.0,,www.linkdayton.org,2019-02-07 08:20:59.870763
+USD,,0,Annual Plus Membership,bcycle_linkdayton_353,110.0,,www.linkdayton.org,2019-02-07 08:20:59.870763
+USD,Unlock trip cost,1,Unlock Cost,unlock_cost,100,,,2019-02-07 08:20:59.870763
+USD,Cost per minutes,1,Trip Cost,trip_cost,15,,,2019-02-07 08:20:59.870763
+USD,Enjoy unlimited 60-minutes rides for a month! Rides longer than 60 minutes are subject to a usage fee of $3 per additional 60 minutes.,0,Madtown Monthly,bcycle_madison_306,15.0,,madison.bcycle.com,2019-02-07 08:20:59.870763
+USD,This pass gives you unlimited 30-minute rides for 24 hours. Rides longer than 30 minutes are subject to a usage fee of $3 per additional 30 minutes.,0,24-Hour Pass,bcycle_madison_82,6.0,,madison.bcycle.com,2019-02-07 08:20:59.870763
+USD,Get unlimited 30-minutes rides for a full year! Rides longer than 30 minutes are subject to a usage fee of $3 per additional 30 minutes.,0,Annual,bcycle_madison_84,65.0,,madison.bcycle.com,2019-02-07 08:20:59.870763
+USD,Weekly Membership includes unlimited trips lasting up to 60 minutes. $3 per each additional 30 minutes.,0,7 Day Pass,bcycle_mcallen_281,15.0,,mcallen.bcycle.com,2019-02-07 08:20:59.870763
+USD,Monthly Membership includes unlimited trips lasting up to 60 minutes. $3 per each additional 30 minutes.,0,30 Day Pass,bcycle_mcallen_282,30.0,,mcallen.bcycle.com,2019-02-07 08:20:59.870763
+USD,Annual Membership includes unlimited trips lasting up to 60 minutes. $3 per each additional 30 minutes.,0,Annual Membership,bcycle_mcallen_283,65.0,,mcallen.bcycle.com,2019-02-07 08:20:59.870763
+USD,24-Hour Membership includes unlimited trips lasting up to 60 minutes. $3 per each additional 30 minutes.,0,24-Hour Pass Online,bcycle_mcallen_484,6.0,,mcallen.bcycle.com,2019-02-07 08:20:59.870763
+USD,Single ride lasting up to 60 minutes. $3 per each additional 30 minutes.,0,1-Hour Pass,bcycle_mcallen_506,2.0,,mcallen.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Metro Bike Share Monthly Pass,bcycle_lametro_239,17.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,,0,Metro Bike Share Flex Pass,bcycle_lametro_240,40.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,,0,Metro Bike Share Day Pass,bcycle_lametro_2310102,5.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,,0,LATTC Pass,bcycle_lametro_2310103,25.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,,0,Walk-up (online),bcycle_lametro_2310104,3.5,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,,0,Student Pass,bcycle_lametro_2310105,5.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,,0,Single Ride (Online),bcycle_lametro_2310106,0.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,Monthly Pass (TapForce),0,Monthly Pass,bcycle_lametro_2310108,17.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,Annual Pass (TapForce),0,Annual Pass,bcycle_lametro_2310109,150.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,Single Ride Pass (TapForce),0,Pay-Per-Ride Pass,bcycle_lametro_2310110,0.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,Day Pass (TapForce),0,Day Pass,bcycle_lametro_2310111,5.0,,bikeshare.metro.net,2019-02-07 08:20:59.870763
+USD,,0,24-Hour,bcycle_nashville_124,5.0,,nashville.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,7-Day,bcycle_nashville_126,10.0,,nashville.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,30-Day,bcycle_nashville_127,15.0,,nashville.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_nashville_128,50.0,,nashville.bcycle.com,2019-02-07 08:20:59.870763
+USD,Lowest cost way to use Nice Ride. A full year of access with unlimited 60 minute trips for about 35 cents per day. Sign up in August and you'll have access until the following August.,0,1 Year,26,75.0,0.0,https://www.niceridemn.com/pricing/,2019-02-07 08:20:59.870763
+USD,Unlimited 30 minute rides for 24 hours. Rides over 30 minutes are charged an additional $2 per half hour. Return your bike and reinsert your card to reset the clock.,0,Day Pass,22,6.0,0.0,https://www.niceridemn.com/pricing/,2019-02-07 08:20:59.870763
+USD,"Charged at a flat rate of $2 per half hour for each bike, beginning when the bike leaves the station.",0,Single Ride,24,2.0,0.0,https://www.niceridemn.com/pricing/,2019-02-07 08:20:59.870763
+USD,30 days of access with unlimited 60 minute rides. After 30 days you can reactivate at any time by simply renting a bike with your key. You will be charged another $18 and have access for another 30 days.,0,30-Day Pay-as-you-go,15,18.0,0.0,https://www.niceridemn.com/pricing/,2019-02-07 08:20:59.870763
+USD,Lowest cost way to use Nice Ride. A full year of access with unlimited 60 minute trips for about 35 cents per day. Sign up in August and you'll have access until the following August.,0,Annual Membership from Nice Ride App,37,75.0,0.0,https://www.niceridemn.com/pricing/,2019-02-07 08:20:59.870763
+USD,30 days of access with unlimited 60 minute rides. After 30 days you can reactivate at any time by simply renting a bike with your key. You will be charged another $18 and have access for another 30 days.,0,30 Day Pay-As-You-Go from Nice Ride App,38,18.0,0.0,https://www.niceridemn.com/pricing/,2019-02-07 08:20:59.870763
+USD,Pass for one 30 minute ride. Usage fees of $3.50/30 minutes. Rides may be over 30 minutes long but will incur usage fees. Receive a text each time a bike is successfully returned. ,0,one 30 minute ride,bcycle_spokies_367,3.5,,https://spokies.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Gift an Annual Pass. Purchaser will be sent a promo code the next business day, for a free Annual Pass. Share code to gift a Pass to another. Each promotional code may only be used once. Usage fees of $1.75 still apply to all rides over one hour duration.",0,Gift Annual,bcycle_spokies_359,70.0,,https://spokies.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Access the system for 48 hours for an unlimited number of 1-hour rides. Rides over one hour incur usage fees at $1.75/half hour. App, phone, or credit card. Receive text each time a bike is returned.",0,"2 day pass, one hour rides",bcycle_spokies_349,9.0,,https://spokies.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Access the system 365 days. Take an unlimited number of 1-hour rides. Rides over an hour incur usage fees of $1.75/half hour. Check out bikes any time with the B-cycle App, phone, credit card, or FOB.",0,Annual,bcycle_spokies_321,70.0,,https://spokies.bcycle.com,2019-02-07 08:20:59.870763
+USD,"Allows  30 days of acecss. Unlimited number of 1 hour rides. Rides over an hour incur usage fees of $1.75/half hour. Check out bikes with the B-cycle App, phone, or credit card. Fob is mailed by request to local address. ",0,Monthly/Recurring optional,bcycle_spokies_322,9.95,,https://spokies.bcycle.com,2019-02-07 08:20:59.870763
+USD,"$10 for unlimited 60-min rides in a 24-hr period.  Rides lasting more than 60-min will accrue an add'l $5 fee each time the 60-min threshold is obtained until bike is locked.  Sales tax applies.
+",0,24 hour membership,bcycle_coloradosprings_438,10.82,,pikeride.org,2019-02-07 08:20:59.870763
+USD,$15 for unlimited 60 min-rides for a month.  Rides lasting more than 60-min will accrue an add'l $5 fee each time the 60-min threshold is obtained until bike is locked.  State and local taxes apply.,0,Monthly Pass,bcycle_coloradosprings_440,16.24,,pikeride.org,2019-02-07 08:20:59.870763
+USD,$90 for unlimited 60-min rides for a year!  Rides lasting more than 60-min will accrue an add'l $5 fee each time the 60-min threshold is obtained until bike is locked.  Sales tax applies.,0,Annual Membership,bcycle_coloradosprings_441,97.43,,pikeride.org,2019-02-07 08:20:59.870763
+USD,30-min of ride time for $2!  Rides lasting more than 30-min will accrue an add'l $5 fee each time the 60-min threshold is obtained until bike is locked.  State and local tax applies.,0,30 Min Single Ride,bcycle_coloradosprings_445,2.17,,pikeride.org,2019-02-07 08:20:59.870763
+USD,,0,24-Hour,bcycle_rapidcity_193,5.0,,rapidcity.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,7-Day,bcycle_rapidcity_194,15.0,,rapidcity.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_rapidcity_195,65.0,,rapidcity.bcycle.com,2019-02-07 08:20:59.870763
+USD,,1,UB Pass,payment_plan_946,10.0,,https://widget.socialbicycles.com/78/946,2019-02-07 08:20:59.870763
+USD,"$20.00 to sign up 4 riders, $3.60 per hour, per bike. Valid for 30 days.",1,Group Pass,payment_plan_313,20.0,,https://widget.socialbicycles.com/78/313,2019-02-07 08:20:59.870763
+USD,"$8.50 to sign up, $3.60/hour to ride. Valid for 30 days.",1,Hourly Pass,payment_plan_312,8.5,,https://widget.socialbicycles.com/78/312,2019-02-07 08:20:59.870763
+USD,"$55 to sign up, $0.01/minute to ride. Valid for 1 year.",1,Annual Pass,payment_plan_314,55.0,,https://widget.socialbicycles.com/78/314,2019-02-07 08:20:59.870763
+USD,,1,M&T Annual,payment_plan_588,0.0,,https://widget.socialbicycles.com/78/588,2019-02-07 08:20:59.870763
+USD,"No annual commitment, includes 90 minutes of riding time per day",1,MONTHLY PASS SUBSCRIPTION,payment_plan_547,15.0,,https://widget.socialbicycles.com/31/547,2019-02-07 08:20:59.870763
+USD,"Requires an annual commitment, includes 90 minutes of riding time per day.",1,ANNUAL PASS,payment_plan_548,10.0,,https://widget.socialbicycles.com/31/548,2019-02-07 08:20:59.870763
+USD,Relay Bike Share offers reduced membership pricing for community members that receive SNAP benefits. Our goal is to empower low income families to have an equal opportunity for alternative modes of transportation. The Relay Bike Share SNAP Pass price is for residents of Atlanta who are 18 years or older and live in an income qualifying household.,1,SNAP PASS SUBSCRIPTION,payment_plan_551,5.0,,https://widget.socialbicycles.com/31/551,2019-02-07 08:20:59.870763
+USD,"Student Plan Currently Applies to: AUC universities, Emory, GSU, Georgia Tech, Morris Brown University, Oglethorpe University, & SCAD. Enter your @(university).edu email to receive the discounted subscription pass email confirmation.",1,STUDENT PASS SUBSCRIPTION,payment_plan_550,7.5,,https://widget.socialbicycles.com/31/550,2019-02-07 08:20:59.870763
+USD,"For $3.50 the Pay As You Go plan comes with 30 minutes of ride time and expires after 24 hours. Rides are billed $0.15/minute after your included 30 minutes. Multiple bikes are always billed at $0.15/minute.
+
+More frequent riders may want to get a Monthly Membership, which will give you 90 minutes/day for $15/month.",1,PAY AS YOU GO,payment_plan_549,3.5,,https://widget.socialbicycles.com/31/549,2019-02-07 08:20:59.870763
+USD,,0,3 Day Pass Online,bcycle_rtcbikeshare_451,10.0,,rtcbikeshare.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,30 Day Pass,bcycle_rtcbikeshare_329,15.0,,rtcbikeshare.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,24 Hour Pass Online,bcycle_rtcbikeshare_374,5.0,,rtcbikeshare.bcycle.com,2019-02-07 08:20:59.870763
+USD,Annual Membership includes unlimited trips lasting up to 60 minutes. $2 per each additional 30 minutes.,0,Annual (Special Price),bcycle_sanantonio_62,50.0,,swellcycle.bcycle.com,2019-02-07 08:20:59.870763
+USD,24-Hour Access Pass includes unlimited trips lasting up to 60 minutes. $2 per each additional 30 minutes. ,0,24-Hour Online,bcycle_sanantonio_64,12.0,,swellcycle.bcycle.com,2019-02-07 08:20:59.870763
+USD,One Trip Access Pass includes one trip lasting up to 30 minutes. $3 per each additional 30 minutes.,0,One Trip,bcycle_sanantonio_462,3.0,,swellcycle.bcycle.com,2019-02-07 08:20:59.870763
+USD,Cycling for Good annual membership in partnership with Earn A Bike with 1/2 going to EAB.,0,Cycling for Good ,bcycle_sanantonio_379,125.0,,swellcycle.bcycle.com,2019-02-07 08:20:59.870763
+USD,Monthly Membership includes unlimited trips lasting up to 60 minutes. $2 per each additional 30 minutes.,0,Monthly,bcycle_sanantonio_318,18.0,,swellcycle.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,24 Hour - Web,bcycle_catbike_165,5.0,,catbike.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,7 Day,bcycle_catbike_166,20.0,,catbike.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_catbike_167,60.0,,catbike.bcycle.com,2019-02-07 08:20:59.870763
+USD,This plan will renew until the auto-renewal setting is changed or subscription is canceled by Rider. This plan includes 60 minutes of rental time each calendar day for 30 days. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $8/hour prorated by the minute. All other fees and credits are described in the Rental Policy. Thank you for riding SoBi Long Beach.,1,Monthly,payment_plan_544,15.0,,https://widget.socialbicycles.com/33/544,2019-02-07 08:20:59.870763
+USD,Down for the Day?  Take advantage of our pro-rated hourly plan for only $8 an hour! ,1,Hourly,payment_plan_141,0.0,,https://widget.socialbicycles.com/33/141,2019-02-07 08:20:59.870763
+USD,,0,24 Hour Online,bcycle_spartanburg_153,5.0,,spartanburg.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Student Annual ,bcycle_spartanburg_154,20.0,,spartanburg.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,Annual,bcycle_spartanburg_85,30.0,,spartanburg.bcycle.com,2019-02-07 08:20:59.870763
+USD,,0,30 Day,bcycle_spartanburg_87,15.0,,spartanburg.bcycle.com,2019-02-07 08:20:59.870763
+USD,Pass is valid for 24-hours from start of first ride. Unlimited 30 minute trips. Rides longer than 30 minutes = $1.50 for each additional 15 minutes.,0,Day Pass,bcycle_startbike_409,8.0,,startbikejh.com,2019-02-07 08:20:59.870763
+USD,Pass is valid for 72 hours. Unlimited 30 minute trips. Rides lasting longer than 30 minutes = $1.50 for each additional 15 minutes. ,0,3 Day Pass,bcycle_startbike_410,20.0,,startbikejh.com,2019-02-07 08:20:59.870763
+USD,Ride all season long. Unlimited 60 minutes trips and the flexibility of no out of station fees! Rides lasting longer than 60 minutes = $1.50 for each additional 15 minutes. Pass is good for one year from date of purchase.,0,Founder Pass,bcycle_startbike_411,90.0,,startbikejh.com,2019-02-07 08:20:59.870763
+USD,"Unlimited 30 minute trips. Rides lasting longer than 30 minutes = $1.50 for each additional 15 minutes.  Pass is good for one year.
+
+
+",0,Annual Pass,bcycle_startbike_412,50.0,,startbikejh.com,2019-02-07 08:20:59.870763
+USD,,1,Annual,payment_plan_116,25.0,,https://widget.socialbicycles.com/37/116,2019-02-07 08:20:59.870763
+USD,"Washburn University and Washburn Technical Institute ID holders - students, faculty, and staff. ",1,Washburn - Annual,payment_plan_114,20.0,,https://widget.socialbicycles.com/37/114,2019-02-07 08:20:59.870763
+USD,,1,Pay As You Go,payment_plan_117,0.0,,https://widget.socialbicycles.com/37/117,2019-02-07 08:20:59.870763
+USD,Monthly payment plan with automatic renewal,1,Monthly,payment_plan_115,5.0,,https://widget.socialbicycles.com/37/115,2019-02-07 08:20:59.870763
+USD,,1,UVA 1 Month Plan,payment_plan_771,5.0,,https://widget.socialbicycles.com/28/771,2019-02-07 08:20:59.870763
+USD,,1,6 Month Plan ,payment_plan_777,40.0,,https://widget.socialbicycles.com/28/777,2019-02-07 08:20:59.870763
+USD,,1,UVa Semester (UVa E-Mail Required),payment_plan_104,30.0,,https://widget.socialbicycles.com/28/104,2019-02-07 08:20:59.870763
+USD,,1,UVa Annual Membership (UVa E-Mail Required),payment_plan_80,60.0,,https://widget.socialbicycles.com/28/80,2019-02-07 08:20:59.870763
+USD,Hourly pay as you go plan with charges prorated to the minute.  Prepay first 60 minutes of use ($3).,1,Hourly Plan,payment_plan_157,0.0,,https://widget.socialbicycles.com/28/157,2019-02-07 08:20:59.870763
+USD,,1,Annual Membership,payment_plan_83,80.0,,https://widget.socialbicycles.com/28/83,2019-02-07 08:20:59.870763

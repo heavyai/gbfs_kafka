@@ -1,0 +1,204 @@
+system_id,language,name,short_name,operator,url,purchase_url,start_date,phone_number,email,timezone,license_url,accessed_on
+ABU,en,Abu dhabi ,,CYACLE,http://www.bikeshare.ae,,2014-12-20,800-292253,customerservice@cyacle.ae,Asia/Dubai,,2019-02-07 08:20:08.554214
+MBTBROS,es-ar,Mi Bici Tu Bici,MBTB,Bike to Bike,https://www.mibicitubici.gob.ar,https://www.mibicitubici.gob.ar,2017-07-23,,soporte@biketobike.com.ar,America/Argentina/Buenos_Aires,,2019-02-07 08:20:08.554214
+nextbike_na,en,nextbike Burgenland Austria,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.at/xx/burgenland/,,,00432742229901,info@nextbike.at,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ka,en,nextbike Klagenfurt Austria,,"nextbike AT GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.at/xx/klagenfurt/,,,00434635373333,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_la,en,nextbike Niederösterreich Austria,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.at/xx/,,,00432742229901,info@nextbike.at,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ta,en,nextbike Tirol Austria,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",http://www.serfaus.gv.at/,,,0043512908069,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_si,en,Stadtrad Innsbruck Austria,,"nextbike AT GmbH, Eckartau 2, A-6290 Mayrhofen, Austria",https://stadtrad.ivb.at/,,,0043512908069,stadtrad@ivb.at,Europe/Berlin,,2019-02-07 08:20:08.554214
+monash_bike_share,en,Monash Bike Share,,,https://monashbikeshare.com/,https://monashbikeshare.com/,,+61 9902 0222 ,environment@monash.edu,Australia/Melbourne,,2019-02-07 08:20:08.554214
+nextbike_bj,en,BL bike,,"Trg srpskih vladara 1, 78000 Banja luka, Bosna i Hercegovina",https://www.nextbike.ba/xx/banjaluka/,,,+387 (0) 51 307 808,bl.bike@banjaluka.rs.ba,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ba,en,Sarajevo Bosnia and Herzegovina,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.ba/xx/sarajevo/,,,0038733282129,info@nextbike.ba,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ct,en,Tuzla,,"Zmaja od Bosne 47A, 71000 Sarajevo",https://www.nextbike.ba/xx/tuzla/,,,0038733282129,info@nextbike.ba,Europe/Berlin,,2019-02-07 08:20:08.554214
+bike_salvador,en,,,,,,,,,America/Recife,,2019-02-07 08:20:08.554214
+Bixi_MTL,en,Bixi_MTL,,,http://montreal.bixi.com,,2016-03-24,,,America/Montreal,,2019-02-07 08:20:08.554214
+Mobibikes_CA_Vancouver,en,MobiBikes Vancouver,,,,,,,,America/Vancouver,,2019-02-07 08:20:08.554214
+nextbike_ca,en,nextbike Canada,," Jawl Properties, Victoria, Canada ",https://canada.nextbike.net/,,,0012504775295,service@jawlproperties.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+sobi_hamilton,en,SoBi Hamilton,,,https://hamilton.socialbicycles.com,https://hamilton.socialbicycles.com,,289-768-2453,help@sobihamilton.ca,America/New_York,,2019-02-07 08:20:08.554214
+nextbike_ch,en,nextbike Switzerland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.ch/xx/sursee/,,,0041415080800,info@nextbike.ch,Europe/Brussels,,2019-02-07 08:20:08.554214
+nextbike_cy,en,nextbike Cyprus,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.com.cy/xx/limassol/,,,0035777788323,info@nextbike.com.cy,Asia/Istanbul,,2019-02-07 08:20:08.554214
+velonet_praha,cs,VeloNet Praha,,,http://velonet.cz/,http://velonet.cz/#memberships,,,velonet@velonet.cz,Europe/Prague,,2019-02-07 08:20:08.554214
+nextbike_cb,en,Berlin-Buch Campus,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.de/xx/berlin-buch/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_bn,en,Deezer nextbike,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.deezernextbike.de/xx/berlin/,,,00493012086364,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_fg,en,Fächerrad Germany,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.faecherrad.de/xx/karlsruhe/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_kg,en,KVB Rad Germany,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.kvb-rad.de/xx/koeln/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_mr,en,metropolradruhr Germany,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.metropolradruhr.de/xx/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ef,en,nextbike Erfurt,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.de/xx/erfurt/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_de,en,nextbike Germany,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.de/xx/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ng,en,nextbike Gießen,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.de/xx/giessen/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_dk,en,nextbike Kassel,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.de/xx/kassel/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_lr,en,nextbike Lahr (Pedelecs),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.de/xx/lahr/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_le,en,nextbike Leipzig,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.de/xx/leipzig/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_nb,en,NorisBike Germany,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.norisbike.de/xx/nuernberg/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ag,en,SWA Rad,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.swa-rad.de/xx/augsburg/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_sz,en,sz-bike Germany,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.sz-bike.de/xx/dresden/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ur,en,UsedomRad Germany,,"UsedomRad GmbH, Hauptstraße 8, 17459 Ückeritz",http://usedomrad.de/,,,00493055576911,info@usedomrad.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ff,en,VISA nextbike,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.de/xx/frankfurt/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_vn,en,VRNnextbike,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.vrnnextbike.de/xx/heidelberg/,,,00493069205046,kundenservice@nextbike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_wk,en,WK-Bike (Bremen),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.wk-bike.de/xx/bremen/,,,004942136713671,kundenservice@wk-bike.de,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ee,en,SIXT jalgrattarent,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",http://www.sixtbicycle.ee/,,,003727676768,sixtbicycle@sixt.ee,Europe/Tallinn,,2019-02-07 08:20:08.554214
+nextbike_el,en,Sitycleta (Las Palmas),,"Avenida Alcalde José Ramirez Betancourt 33, Las Palmas de Gran Canaria, Las Palmas. 35004 Spain",https://www.sitycleta.com/xx/laspalmas/,,,010,info@sitycleta.com,Atlantic/Canary,,2019-02-07 08:20:08.554214
+nextbike_ft,en,TURKU Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa",https://www.foli.fi/en/citybikes/,,,0048222441313,kundenservice@nextbike.de,Europe/Helsinki,,2019-02-07 08:20:08.554214
+nextbike_bu,en,BelfastBikes,,"NSL Ltd Unit 8, 48 North, 48 Duncrue Street, Belfast BT3 9AR",https://www.belfastbikes.co.uk/xx/belfast/,,,00443433571551,belfastbikes@nsl.co.uk,Europe/London,,2019-02-07 08:20:08.554214
+nextbike_eu,en,Co-bikes,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.co-bikes.co.uk/,,,00442081669851,info@nextbike.co.uk,Europe/London,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_uc,en,nextbike Cardiff,,LU.102 1 Filament Walk Wandsworth SW19 4GQ London,https://www.nextbike.co.uk/xx/cardiff/,,,(0)292 248 1736,info@nextbike.co.uk,Europe/London,,2019-02-07 08:20:08.554214
+nextbike_gg,en,nextbike Glasgow,,LU.102 1 Filament Walk Wandsworth SW19 4GQ London,https://www.nextbike.co.uk/xx/glasgow/,,,00442081669851,info@nextbike.co.uk,Europe/London,,2019-02-07 08:20:08.554214
+nextbike_uk,en,nextbike UK,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.co.uk/xx/,,,00442081669851,info@nextbike.co.uk,Europe/London,,2019-02-07 08:20:08.554214
+nextbike_ku,en,Santander Cycles - Milton Keynes,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.santandercycles.co.uk/,,,00442081669851,info@nextbike.co.uk,Europe/London,,2019-02-07 08:20:08.554214
+nextbike_uu,en,Santander Cycles - Swansea,,LU.102 1 Filament Walk Wandsworth SW19 4GQ London,https://www.santandercycles.co.uk/,,,00442081669851,info@nextbike.co.uk,Europe/London,,2019-02-07 08:20:08.554214
+nextbike_gd,en,Grad Drniš (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/drnis/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_gs,en,Grad Gospić (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/gospic/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_ig,en,Grad Ivanić-Grad (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/ivanicgrad/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_kc,en,Grad Karlovac (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/karlovac/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_cm,en,Grad Metković (Croatia),,"Prisavlje 2, 10000 Zagreb",https://www.nextbike.hr/xx/metkovic/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_bc,en,Grad Šibenik (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/sibenik/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_cs,en,Grad Sisak (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/sisak/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_sb,en,Grad Slavonski Brod (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/slavonskibrod/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_cg,en,Grad Velika Gorica (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/velikagorica/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_vu,en,Grad Vukovar (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/vukovar/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_zd,en,Grad Zadar (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/zadar/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_hr,en,nextbike Croatia,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/zagreb/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_br,en,Općina Brinje (Croatia),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.nextbike.hr/xx/brinje/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_cv,en,Porec bike share (Croatia),,"Prisavlje 2, 10000 Zagreb",https://www.porecbikeshare.com/xx/porecbikeshare/,,,0038517776534,info@nextbike.hr,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_bi,en,Chartered Bike (Bhopal - India),,"Chartered Speed Pvt Ltd, Sanathal Circle, Sarkhej-Bavla Highway, Santahal, Ahmedabad-380022",http://www.charteredbike.in/xx/,,,00919993288888,info@charteredbike.in,Asia/Kolkata,,2019-02-07 08:20:08.554214
+nextbike_in,en,Smartbike (New Delhi - India),,Hyderabad Bicycle Club Venus Plaza Old Airport Exit Road Hyderabad INDIA,https://www.smartbikemobility.com/xx/delhi/,,,,info@smartbikemobility.com,Asia/Calcutta,,2019-02-07 08:20:08.554214
+nextbike_hi,en,Smartbike (Hyderabad - India),,Hyderabad Bicycle Club Venus Plaza Old Airport Exit Road Hyderabad INDIA,https://www.smartbikemobility.com/xx/hyderabad/,,,,info@smartbikemobility.com,Asia/Calcutta,,2019-02-07 08:20:08.554214
+nextbike_vi,en,Smartbike (Vijayawada - India),,Hyderabad Bicycle Club Venus Plaza Old Airport Exit Road Hyderabad INDIA,https://www.smartbikemobility.com/xx/vijayawada/,,,,info@smartbikemobility.com,Asia/Calcutta,,2019-02-07 08:20:08.554214
+nextbike_bl,en,bike4all,,"Dekwaneh, Midan Street P.O.Box 11-62 Beirut - Lebanon",https://www.bikeforall-lb.com/xx/,,,0096103835524,info@bikeforall-lb.com,Asia/Jerusalem,,2019-02-07 08:20:08.554214
+nextbike_lv,en,SiXT Latvia,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.sixtbicycle.lv/,,,0037167676780,velo@sixt.lv,Europe/Riga,,2019-02-07 08:20:08.554214
+nextbike_mt,en,nextbike Malta,,"nextbike Malta Limited; Level 0, Le Meridien Hotel & Spa; 39, Main Street; St. Julian's STJ1017; Malta",https://www.nextbike.com.mt/xx/malta/,,,0035620996666,info@nextbike.com.mt,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_nd,en,nextbike Dordrecht,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.nl/xx/dordrecht/,,,0031435690505,info@nextbike.nl,Europe/Amsterdam,,2019-02-07 08:20:08.554214
+nextbike_nl,en,nextbike Maastricht,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.nl/xx/maastricht/,,,0031435690505,info@nextbike.nl,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_nz,en,nextbike New Zealand,,"Nextbike New Zealand Ltd., 132 Symonds Street, Auckland",https://www.nextbike.co.nz/xx/,,,006499099090,nz@nextbike.co.nz,Pacific/Auckland,,2019-02-07 08:20:08.554214
+nextbike_bp,en,BIKER Białystok Poland,,,https://www.bikerbialystok.pl/,,,0048858710101,bok@bikerbialystok.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_sp,en,Bike_S SRM Poland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://bikes-srm.pl/,,,0048915065200,bikes@bikes-srm.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_jp,en,Częstochowski Rower Miejski Poland,," Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa KRS 0000362899 NIP: 895-198-10-07 REGON: 021336152 ",https://rower.czestochowa.pl/,,,34 340 12 12,bok@rower.czestochowa.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_gm,en,Gliwicki Rower Miejski (SGRM) Poland,,"Nextbike Polska S.A., ul. Przasnyska 6B, 01-756 Warszawa, Poland",https://gliwickirower.pl/,,,0048324933232,bok@gliwickirower.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_gp,en,GRM Grodzisk Poland,,,http://www.rowery.grodzisk.pl/,,,0048222925688,ck@rowery.grodzisk.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_pk,en,Kaliski Rower Miejski Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa, KRS 0000646950, NIP: 895-198-10-07, REGON: 021336152",https://www.kaliskirowermiejski.pl/,,,0048625842525,bok@kaliskirowermiejski.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_kw,en,Katowice Bike Poland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",http://www.citybybike.pl/,,,0048326306161,bok@citybybike.pl,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_kr,en,Kołobrzeski Rower Miejski Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa KRS 0000362899 NIP: 895-198-10-07 REGON: 021336152",https://kolobrzeskirower.pl/,,,0048717381111,bok@kolobrzeskirower.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_ps,en,Koszaliński Rower Miejski Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa",https://www.koszalinskirowermiejski.pl/,,,+48 94 721 42 22,bok@koszalinskirowermiejski.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_op,en,KRM Konstanciński Poland,,,https://www.konstancinskirower.pl/,,,0048223821312,ck@konstancinskirower.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_lp,en,Łódzki Rower Publiczny Poland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",http://www.lodzkirowerpubliczny.pl/,,,0048426200000,ck@lodzkirowerpubliczny.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_ln,en,LRM Lublin Poland,,,https://www.lubelskirower.pl/,,,0048814646600,bok@lubelskirower.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_km,en,OK Bike Poland,," Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa KRS 0000362899 NIP: 895-198-10-07 REGON: 021336152 ",https://okbike.pl/,,,0048221230640,info@nextbike.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_pi,en,Piaseczyński Rower Miejski Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa",https://www.piaseczynskirower.pl/,,,19 115,info@nextbike.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_ep,en,Płocki Rower Miejski (PRM) Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa",https://plockirowermiejski.pl/,,,0048243694242,bok@plockirowermiejski.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_pu,en,Pobiedziski Rower Gminny Poland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://rowery.pobiedziska.pl/,,,0048618154454,rowery@pobiedziska.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_pb,en,PRM Poznan Poland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",http://www.poznanskirower.pl/,,,0048616668080,bok@poznanskirower.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_or,en,Pruszkowski Rower Miejski Poland,," Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa KRS 0000362899 NIP: 895-198-10-07 REGON: 021336152 ",https://www.pruszkowskirower.pl/,,,0048223821312,bok@pruszkowskirower.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_rp,en,Radomski Rower Miejski Poland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://radomskirowermiejski.pl/,,,0048483777333,bok@radomskirowermiejski.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_mw,en,Rower Gminny Michałowice Poland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://rower.michalowice.pl/,,,0048222441313,info@nextbike.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_rm,en,Rower Miejski Szamotuły Poland (RMS) Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa Tel. (+48) 22 208 99 90 Fax. (+48) 22 244 29 63",https://szamotuly.bike/,,,0048616668080,ck@szamotuly.bike,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_po,en,Rower Miejski w Ostrowie Wielkopolskim Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa KRS 0000362899 NIP: 895-198-10-07 REGON: 021336152",https://ostrowskirowermiejski.pl/,,,0048627376115,bok@ostrowskirowermiejski.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_pr,en,Sosnowiecki Rower Miejski Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa",https://sosnowieckirowermiejski.pl/,,,+48 32 630 62 22,bok@sosnowieckirowermiejski.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_mp,en,System Legnicki Rower Miejski (SLRM) Poland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://rower.legnica.eu/,,,0048767591515,bok@rower.legnica.eu,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_ap,en,System Rowerów Miejskich w Pszczynie Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa KRS 0000362899 NIP: 895-198-10-07 REGON: 021336152",https://www.pszczynskirower.pl/xx/pszczyna/,,,0048326306161,info@nextbike.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_pt,en,Tyski Rower Miejski Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa KRS 0000362899 NIP: 895-198-10-07 REGON: 021336152",https://www.tyskirower.pl/xx/tychy/,,,0048326306161,info@nextbike.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_vp,en,VETURILO Poland,,"Nextbike Polska S.A. ul. Przasnyska 6B, 01-756 Warszawa",https://veturilo.waw.pl,,,19 115,info@nextbike.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_pl,en,WRM nextbike Poland,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",http://www.wroclawskirower.pl/,,,0048717381111,bok@wroclawskirower.pl,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+nextbike_sa,en,iBike ( Saudi Arabia ),,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://ibike.kaec.net/,,,9668111065924,Contactus.iBike@kaec.net,Asia/Riyadh,,2019-02-07 08:20:08.554214
+nextbike_cn,en,NomagoBikes (Slovenia),,"Nomago d.o.o., Vošnjakova 3, 1000 Ljubljana, Slovenia",https://bikes.nomago.si/,,,+386 1 431 77 60 ,info@nomago.si,Europe/Berlin,,2019-02-07 08:20:08.554214
+nextbike_as,en,Arriva Nitra Slovakia,,ARRIVA Slovakia a.s. Sturova 72 949 44 Nitra,https://arriva.bike/,,,00421915244244,bike@arriva.sk,Europe/Warsaw,,2019-02-07 08:20:08.554214
+nextbike_nk,en,nextbike Konya,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",https://www.nextbike.com.tr/xx/konya/,,,00903323423523,info@nextbike.com.tr,Asia/Istanbul,,2019-02-07 08:20:08.554214
+nextbike_ot,en,Ordu Bisikletli Turkey,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://ordu.nextbike.com.tr/xx/ordu/,,,00904441052,info@ordu.nextbike.com.tr,Asia/Istanbul,,2019-02-07 08:20:08.554214
+nextbike_kv,en,nextbike Kyiv (Ukraine),,"Kyiv, Ukraine, 03113, Dehtyarivs'ka 51 str. NEXTBIKE UKRAINE LLC",https://www.nextbike.ua/xx/kyiv/,,,0800210441,customerservice@nextbike.com.ua,Europe/Kiev,,2019-02-07 08:20:08.554214
+nextbike_nu,en,nextbike (Ukraine),,"Kyiv, Ukraine, 03113, Dehtyarivs'ka 51 str. NEXTBIKE UKRAINE LLC",https://www.nextbike.ua/xx/,,,0 800 211980,customerservice@nextbike.com.ua,Europe/Kiev,,2019-02-07 08:20:08.554214
+bcycle_arborbike,en,ArborBike,,,https://arborbike.org,,,7348876909,Info@arborbike.org,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_austin,en,Austin B-cycle,,,https://austinbcycle.com,,,512-954-1665,contact@bikeshareofaustin.com,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_aventura,en,Aventura BCycle,,,https://aventura.bcycle.com,,,1-888-852-8665,bikeshare@cityofaventura.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_battlecreek,en,Battle Creek B-cycle,,,https://battlecreek.bcycle.com,,,,,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_bikelnk,en,BikeLNK,,,https://bikelnk.bcycle.com,,,402.807.2005,info@bikelnk.com,America/Chicago,,2019-02-07 08:20:08.554214
+biketownpdx,en,BIKETOWNpdx,,,http://biketownpdx.com/,http://biketownpdx.com/,,(866) 512-2453,customerservice@biketownpdx.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+bishop_ranch,en,Bishop Ranch,,,http://britebikes.socialbicycles.com,http://britebikes.socialbicycles.com,,(925) 968-8377,BRiteBikes@bishopranch.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+boise_greenbike,en,Boise GreenBike,,,http://boise.greenbike.com/,http://boise.greenbike.com/,,2083457433,help@boise.greenbike.com,America/Denver,,2019-02-07 08:20:08.554214
+bcycle_boulder,en,Boulder B-cycle,,,https://boulder.bcycle.com,,,303-532-4412,info@boulderbcycle.org,America/Denver,,2019-02-07 08:20:08.554214
+bike_share_connect,en,Bike Share Connect,,,http://bikeshareconnect.com/,http://bikeshareconnect.com/,,323-825-9922,info@bikeshareconnect.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+bcycle_broward,en,Broward B-cycle,,,https://broward.bcycle.com,,,754-200-5672,info@browardbcycle.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_bublr,en,Bublr Bikes,,,http://bublrbikes.com,,,414-931-1121,info@bublrbikes.org,America/Chicago,,2019-02-07 08:20:08.554214
+cabi,en,Capital Bikeshare,Capital Bikeshare,"Motivate International, Inc.",http://www.capitalbikeshare.com,https://secure.capitalbikeshare.com/register/,2010-09-20,1-877-430-BIKE,customerservice@capitalbikeshare.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_charlotte,en,Charlotte B-cycle,,,https://charlotte.bcycle.com,,,704-332-9585,info@charlottebcycle.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_cincyredbike,en,Red Bike - Cincinnati,,,https://redbike.bcycle.com,,,513-621-2453,jason.barron@cincyredbike.org,America/New_York,,2019-02-07 08:20:08.554214
+NYC,en,Citi Bike,Citi Bike,"Motivate International, Inc.",http://www.citibikenyc.com,http://www.citibikenyc.com/,2013-05-01,1-855-BIKE-311,customerservice@motivateco.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_clarksville,en,Clarksville B-cycle,,,https://clarksville.bcycle.com,,,931-645-7476,BCycle@cityofclarksville.com,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_clemson,en,Clemson BikeShare,,,https://clemson.bcycle.com,,,864-656-2270,parking@clemson.edu,America/New_York,,2019-02-07 08:20:08.554214
+coast_bike_share,en,Coast Bike Share,,,http://www.CoastBikeShare.com,http://www.CoastBikeShare.com,,813.999.3300,info@coastbikeshare.com,America/New_York,,2019-02-07 08:20:08.554214
+cogo,en,CoGo Bike Share,,,,,,,,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_columbiacounty,en,Columbia County B-cycle,,,https://columbiacounty.bcycle.com,,,706-868-3484,rlutz@columbiacountyga.gov,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_columbike,en,columbike,,,https://columbike.bcycle.com/,,,812-799-3563,reboycee@gmail.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_denver,en,Denver B-cycle,,,https://denver.bcycle.com,,,303.825.3325,info@denverbcycle.org,America/Denver,,2019-02-07 08:20:08.554214
+bcycle_desmoines,en,Des Moines B-cycle,,,https://desmoines.bcycle.com,,,515-631-2546,Rob@dsmbikecollective.org,America/Chicago,,2019-02-07 08:20:08.554214
+divvy,en,Divvy,,,,,,,,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_elpaso,en,El Paso B-cycle,,,https://elpaso.bcycle.com,,,915-212-2453,info@bcycle.com,America/Denver,,2019-02-07 08:20:08.554214
+bcycle_memphis,en,Explore Bike Share,,,https://explorebikeshare.bcycle.com,,,901.295.0707,Info@explorebikeshare.com,America/Chicago,,2019-02-07 08:20:08.554214
+nextbike_,en,,,,,,,,,,,2019-02-07 08:20:08.554214
+BA,en,Ford GoBike,Ford GoBike,"Motivate International, Inc.",http://www.fordgobike.com,,2017-05-14,855-480-BIKE,,US/Pacific,,2019-02-07 08:20:08.554214
+bcycle_fortworth,en,Fort Worth Bike Sharing,,,https://fortworth.bcycle.com,,,817-348-0084,info@fortworthbikesharing.org,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_greatrides,en,Great Rides Bike Share,,,https://greatrides.bcycle.com,,,701-280-1202,Dylan@greatridesfargo.com,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_greenbikeslc,en,GREENbike,,,https://www.greenbikeslc.org,,,8013331110,ben@downtownslc.org,America/Denver,,2019-02-07 08:20:08.554214
+bcycle_greenville,en,Greenville B-cycle,,,https://greenville.bcycle.com,,,864-423-9088,bcycle@upstateforever.org,America/New_York,,2019-02-07 08:20:08.554214
+grid_bike_share,en,Grid Bike Share,,,http://gridbikeshare.com/,http://gridbikeshare.com/,,602.753.4743,info@gridbikes.com,America/Phoenix,,2019-02-07 08:20:08.554214
+nextbike_pp,en,Healthy Ride Pittsburgh,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://healthyridepgh.com/,,,412-535-5189,info@pghbikeshare.org,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_heartland,en,Heartland B-cycle,,,https://heartland.bcycle.com,,,402-957-2453,info@heartlandbcycle.com,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_houston,en,Houston BCycle,,,https://houston.bcycle.com,,,713-865-3662,info@houstonbikeshare.org,America/Chicago,,2019-02-07 08:20:08.554214
+bluebikes,en,Blue Bikes,Blue Bikes,"Motivate International, Inc.",http://bluebikes.com,https://bluebikes.com/signup,2011-07-28,1-855-948-2929,customerservice@bluebikes.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_indego,en,Indego,,,https://www.rideindego.com,,,844.4.INDEGO,trektest123@gmail.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_pacersbikeshare,en,Pacers Bikeshare ,,,http://pacersbikeshare.org,,,317-653-1947,operations@indyculturaltrail.org,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_jacksoncounty,en,Jackson County,,,https://jacksoncounty.bcycle.com,,,517-768-2901,klewis@co.jackson.mi.us,America/New_York,,2019-02-07 08:20:08.554214
+nextbike_nj,en,JerseyBike,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://www.hudsonbikeshare.com/xx/hoboken/,,,+12012082913,info@hudsonbikeshare.com,America/New_York,,2019-02-07 08:20:08.554214
+juice_bike_share,en,Juice Bike Share,,,https://juicebikeshare.com,https://juicebikeshare.com,,407-930-9414,info@juicebikeshare.com,America/New_York,,2019-02-07 08:20:08.554214
+jump_austin,en,JUMP Austin,,,https://www.jump.com,https://www.jump.com,,(833) 300-6106,support@jumpbikes.com,America/Chicago,,2019-02-07 08:20:08.554214
+jump_chicago,en,JUMP Chicago,,,http://chi.jumpbikes.com/,http://chi.jumpbikes.com/#memberships,,877-781-4009,support@jumpbikes.com,America/Chicago,,2019-02-07 08:20:08.554214
+jump_dc,en,JUMP DC,,,https://jumpbikes.com,https://jumpbikes.com,,(833) 300-6106,support@jump.com,America/New_York,,2019-02-07 08:20:08.554214
+jump_denver,en,JUMP Denver,,,http://www.jumpbikes.com,http://www.jumpbikes.com,,(833) 300-6106,support@jumpbikes.com,America/Denver,,2019-02-07 08:20:08.554214
+jump_la,en,JUMP LA,,,https://jump.com,https://jump.com,,(833) 300-6106,support@jump.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+jump_nyc,en,JUMP NYC,,,https://www.jumpbikes.com,https://www.jumpbikes.com,,(833) 300-6106,support@jumpbikes.com,America/New_York,,2019-02-07 08:20:08.554214
+jump_providence,en,JUMP Providence,,,https://www.jumpbikes.com,https://www.jumpbikes.com,,(833) 300-6106,support@jumpbikes.com,America/New_York,,2019-02-07 08:20:08.554214
+jump_sacramento,en,JUMP Sacramento,,,http://jumpbikes.com,http://jumpbikes.com,,(833) 300-6106,support@jumpbikes.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+jump_san_diego,en,JUMP San Diego,,,https://jump.com/cities/san-diego/,https://jump.com/cities/san-diego/,,,,America/Los_Angeles,,2019-02-07 08:20:08.554214
+jump_sf,en,JUMP SF,,,https://www.jumpbikes.com,https://www.jumpbikes.com,,(833) 300-6106,support@jumpbikes.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+jump_sc,en,JUMP SC,,,https://jumpbikes.com,https://jumpbikes.com,,(833) 300-6106,support@jumpbikes.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+jump_seattle,en,JUMP Seattle,,,https://jump.com,https://jump.com,,8333006106,support@jump.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+bcycle_kc,en,Kansas City B-cycle,,,https://kc.bcycle.com,,,816-945-9545,bcycle@bikewalkkc.org,America/Chicago,,2019-02-07 08:20:08.554214
+lime_arlington,en,Lime Arlington,,,,,,,,America/New_York,,2019-02-07 08:20:08.554214
+lime_chicago,en,Lime Chicago,,,,,,,,America/Chicago,,2019-02-07 08:20:08.554214
+lime_detroit,en,Lime Detroit,,,,,,,,America/Detroit,,2019-02-07 08:20:08.554214
+lime_los_angeles,en,Lime Los Angeles,,,,,,,,America/Los_Angeles,,2019-02-07 08:20:08.554214
+lime_new_york,en,Lime New York,,,,,,,,America/New_York,,2019-02-07 08:20:08.554214
+lime_washington_dc,en,Lime Washington DC,,,,,,,,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_linkdayton,en,Link Dayton Bike Share,,,https://www.linkdayton.org,,,937-496-3825,lestandia@bikemiamivalley.org,America/New_York,,2019-02-07 08:20:08.554214
+lyft_dca,en,Lyft,,,,,,,,America/Los_Angeles,,2019-02-07 08:20:08.554214
+bcycle_madison,en,Madison B-cycle,,,https://madison.bcycle.com,,,800.473.4743,info@madisonbcycle.com,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_mcallen,en,McAllen B-cycle,,,https://mcallen.bcycle.com,,,956-681-2453,info@bcycle.com,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_lametro,en,Metro Bike Share,,,https://bikeshare.metro.net,,,844.857.2453,support@wolfgang.metro.net,America/Los_Angeles,,2019-02-07 08:20:08.554214
+bcycle_nashville,en,Nashville B-cycle,,,https://nashville.bcycle.com,,,(615) 625-2153,emagas@nashvilledowntown.com,America/Chicago,,2019-02-07 08:20:08.554214
+niceridemn,en,Nice Ride Minnesota,Nice Ride MN,"Motivate International, Inc",http://www.niceridemn.com,https://www.niceridemn.com,2010-06-10,1-877-551-6423,customerservice@niceridemn.com,US/Central,https://www.niceridemn.com/data_license/,2019-02-07 08:20:08.554214
+bcycle_spokies,en,OKC Spokies,,,https://spokies.bcycle.com,,,(405) 606-4008 ,spokies@okc.gov,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_coloradosprings,en,PikeRide - Colorado Springs,,,https://pikeride.org,,,7192355862,brent@pikeride.org,America/Denver,,2019-02-07 08:20:08.554214
+bcycle_rapidcity,en,Rapid City B-cycle,,,https://rapidcity.bcycle.com,,,605-721-9170,tracy@mainstreetsquarerc.com,America/Denver,,2019-02-07 08:20:08.554214
+reddy_bikeshare,en,Reddy Bikeshare,,,http://reddybikeshare.socialbicycles.com,http://reddybikeshare.socialbicycles.com,,716-407-7474,info@reddybikeshare.com,America/New_York,,2019-02-07 08:20:08.554214
+relay_bike_share,en,Relay Bike Share,,,http://relaybikeshare.com,http://relaybikeshare.com,,(678) 710-9900,info@relaybikeshare.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_rtcbikeshare,en,Las Vegas,,,https://rtcbikeshare.bcycle.com,,,844.641.7823,support@bikeshare.rtcsnv.com,America/Los_Angeles,,2019-02-07 08:20:08.554214
+bcycle_sanantonio,en,SWell Cycle,,,https://swellcycle.bcycle.com,,,210.281.0101,info@sabikeshare.com,America/Chicago,,2019-02-07 08:20:08.554214
+bcycle_catbike,en,Savannah,,,https://catbike.bcycle.com,,,912-629-3942,CATBike@catchacat.org,America/New_York,,2019-02-07 08:20:08.554214
+nextbike_wb,en,Skybike West Palm Beach,,"nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig, Germany",https://skybikewpb.com/,,,0015614121643,customerservice@skybikewpb.com,America/Nassau,,2019-02-07 08:20:08.554214
+sobi_long_beach_ny,en,SoBi Long Beach NY,,,https://sobilongbeach.com,https://sobilongbeach.com,,(646) 760-SOBI,help@sobilongbeach.com,America/New_York,,2019-02-07 08:20:08.554214
+bcycle_spartanburg,en,Spartanburg BCycle,,,https://spartanburg.bcycle.com,,,8645423552,BCycle@active-living.org,America/New_York,,2019-02-07 08:20:08.554214
+spin detroit,en,Spin Detroit,,,,,,,,Eastern Time (US & Canada),,2019-02-07 08:20:08.554214
+spin washington_dc,en,Spin Washington DC,,,,,,,,Eastern Time (US & Canada),,2019-02-07 08:20:08.554214
+bcycle_startbike,en,START Bike,,,https://startbikejh.com,,,3077343560,info@startbikejh.com,America/Denver,,2019-02-07 08:20:08.554214
+topeka_metro_bikes,en,Topeka Metro Bikes,,,https://topekametrobikes.org,https://topekametrobikes.org,,7857308615,info@topekametrobikes.org,America/Chicago,,2019-02-07 08:20:08.554214
+university_of_virginia,en,University of Virginia,,,http://ubike.virginia.edu,http://ubike.virginia.edu,,434-924-0016,ubike@virginia.edu,America/New_York,,2019-02-07 08:20:08.554214
